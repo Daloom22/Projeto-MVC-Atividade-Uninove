@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Projeto-MVC-Atividade-Uninove/1.0.0": {
+        "runtime": {
+          "Projeto-MVC-Atividade-Uninove.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto-MVC-Atividade-Uninove/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
